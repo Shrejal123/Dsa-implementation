@@ -19,6 +19,7 @@ int n=v.size();
 }
      v[j+1]=key;
    }
+}
 int main(){
 
 vector<int>v={44,33,55,22,11}
