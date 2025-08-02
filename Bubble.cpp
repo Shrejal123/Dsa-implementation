@@ -1,3 +1,4 @@
+//this is the bubble sort code Tc-O(n), SC-O(1)
 #include<iostream>
 #include<vector>
 using namespace std;
@@ -26,3 +27,4 @@ int main() {
     print(v);
     return 0;
 }
+
